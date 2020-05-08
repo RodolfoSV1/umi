@@ -2,7 +2,7 @@ const { htmlEscape } = require('escape-goat');
 const git = require('./git');
 
 exports.getChangelog = async () => {
-  const repoUrl = 'https://github.com/umijs/umi';
+  const repoUrl = 'https://github.com/@rodolfosv1/umi';
   const latest = await git.latestTagOrFirstCommit();
   const log = await git.commitLogFromRevision(latest);
 
