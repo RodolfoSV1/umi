@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi"
+    "url": "https://github.com/rodolfosv1/umi"
   },
   "keywords": [
     "umi"
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "bugs": "http://github.com/umijs/umi/issues",
-  "homepage": "https://github.com/umijs/umi/tree/master/packages/babel-plugin-lock-core-js-3#readme",
+  "homepage": "https://github.com/rodolfosv1/umi/tree/master/packages/babel-plugin-lock-core-js-3#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rodolfosv1"
   },
