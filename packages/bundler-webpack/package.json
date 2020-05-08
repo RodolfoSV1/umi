@@ -22,15 +22,17 @@
   "license": "MIT",
   "bugs": "http://github.com/umijs/umi/issues",
   "homepage": "https://github.com/umijs/umi/tree/master/packages/bundler-webpack#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@rodolfosv1" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rodolfosv1"
+  },
   "dependencies": {
     "@babel/core": "7.9.0",
-    "@types/sockjs-client": "1.1.1",
-    "@types/webpack": "4.41.12",
-    "@types/webpack-dev-middleware": "3.7.0",
     "@rodolfosv1/bundler-utils": "3.1.2",
     "@rodolfosv1/types": "3.1.2",
     "@rodolfosv1/utils": "3.1.2",
+    "@types/sockjs-client": "1.1.1",
+    "@types/webpack": "4.41.12",
+    "@types/webpack-dev-middleware": "3.7.0",
     "babel-loader": "8.1.0",
     "copy-webpack-plugin": "5.1.1",
     "css-loader": "3.5.2",

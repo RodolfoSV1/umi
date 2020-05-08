@@ -21,7 +21,9 @@
   "license": "MIT",
   "bugs": "http://github.com/umijs/umi/issues",
   "homepage": "https://github.com/umijs/umi/tree/master/packages/runtime#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@rodolfosv1" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rodolfosv1"
+  },
   "dependencies": {
     "@types/react-router": "5.1.5",
     "@types/react-router-dom": "5.1.4",
