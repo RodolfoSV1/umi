@@ -1,5 +1,5 @@
 {
-  "name": "@rodolfosv1/utils",
+  "name": "utils",
   "version": "3.1.3-11",
   "description": "@rodolfosv1/utils",
   "main": "lib/index.js",
