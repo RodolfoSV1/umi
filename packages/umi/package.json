@@ -29,11 +29,11 @@
   },
   "dependencies": {
     "@babel/core": "7.9.0",
-    "@rodolfosv1/core": "3.1.3",
-    "@rodolfosv1/preset-built-in": "3.1.3",
-    "@rodolfosv1/runtime": "3.1.3",
-    "@rodolfosv1/types": "3.1.3",
-    "@rodolfosv1/utils": "3.1.2",
+    "@rodolfosv1/core": "3.1.3-10",
+    "@rodolfosv1/preset-built-in": "3.1.3-10",
+    "@rodolfosv1/runtime": "3.1.3-10",
+    "@rodolfosv1/types": "3.1.3-10",
+    "@rodolfosv1/utils": "3.1.3-10",
     "react": "^16.13.1",
     "resolve-cwd": "3.0.0"
   },

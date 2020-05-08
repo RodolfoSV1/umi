@@ -1,5 +1,5 @@
 {
-  "name": "bundler-utils",
+  "name": "@rodolfosv1/bundler-utils",
   "version": "3.1.3-9",
   "description": "@rodolfosv1/bundler-utils",
   "main": "lib/index.js",
@@ -24,7 +24,7 @@
     "registry": "https://npm.pkg.github.com/@rodolfosv1"
   },
   "dependencies": {
-    "@rodolfosv1/babel-preset-umi": "3.1.3",
-    "@rodolfosv1/types": "3.1.3"
+    "@rodolfosv1/babel-preset-umi": "3.1.3-10",
+    "@rodolfosv1/types": "3.1.3-10"
   }
 }
