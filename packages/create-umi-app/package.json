@@ -1,6 +1,6 @@
 {
   "name": "create-umi-app",
-  "version": "3.1.3-11",
+  "version": "3.1.3-12",
   "description": "@rodolfosv1/create-umi-app",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

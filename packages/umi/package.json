@@ -1,6 +1,6 @@
 {
   "name": "umi",
-  "version": "3.1.3-11",
+  "version": "3.1.3-12",
   "description": "umi",
   "main": "index.js",
   "types": "types.d.ts",
