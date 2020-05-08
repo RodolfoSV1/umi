@@ -10,7 +10,7 @@ const getPackages = require('./utils/getPackages');
   const pkgs = getPackages();
 
   pkgs.forEach((shortName) => {
-    const name = shortName === 'umi' ? shortName : `@umijs/${shortName}`;
+    const name = shortName === 'umi' ? shortName : `@rodolfosv1/${shortName}`;
 
     const pkgJSONPath = join(
       __dirname,
@@ -30,7 +30,7 @@ const getPackages = require('./utils/getPackages');
         files: ['lib', 'src'],
         repository: {
           type: 'git',
-          url: 'https://github.com/umijs/umi',
+          url: 'https://github.com/rodolfosv1/umi',
         },
         keywords: ['umi'],
         authors: ['chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)'],

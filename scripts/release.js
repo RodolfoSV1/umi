@@ -100,7 +100,7 @@ async function release() {
     logStep('sync version to root package.json');
     const rootPkg = require('../package');
     Object.keys(rootPkg.devDependencies).forEach((name) => {
-      if (name.startsWith('@umijs/') && !name.startsWith('@umijs/p')) {
+      if (name.startsWith('@rodolfosv1/') && !name.startsWith('@umijs/p')) {
         rootPkg.devDependencies[name] = currVersion;
       }
     });
@@ -156,7 +156,7 @@ async function release() {
   const changelog = releaseNotes(tag);
   console.log(changelog);
   const url = newGithubReleaseUrl({
-    repoUrl: 'https://github.com/umijs/umi',
+    repoUrl: 'https://github.com/rodolfosv1/umi',
     tag,
     body: changelog,
     isPrerelease: isNext,

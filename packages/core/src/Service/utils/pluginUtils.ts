@@ -79,8 +79,8 @@ function nameToKey(name: string) {
 }
 
 function pkgNameToKey(pkgName: string, type: PluginType) {
-  // strip none @umijs scope
-  if (pkgName.charAt(0) === '@' && !pkgName.startsWith('@umijs/')) {
+  // strip none @rodolfosv1 scope
+  if (pkgName.charAt(0) === '@' && !pkgName.startsWith('@rodolfosv1/')) {
     pkgName = pkgName.split('/')[1];
   }
   return nameToKey(pkgName.replace(RE[type], ''));
