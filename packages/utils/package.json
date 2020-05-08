@@ -1,6 +1,6 @@
 {
   "name": "@rodolfosv1/utils",
-  "version": "3.1.3-13",
+  "version": "3.1.3-14",
   "description": "@rodolfosv1/utils",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
