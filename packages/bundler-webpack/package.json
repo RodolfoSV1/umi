@@ -1,6 +1,6 @@
 {
   "name": "bundler-webpack",
-  "version": "3.1.3-3",
+  "version": "3.1.3-4",
   "description": "@rodolfosv1/bundler-webpack",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
