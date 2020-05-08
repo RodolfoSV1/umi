@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@rodolfosv1/core",
   "version": "3.1.3-6",
   "description": "@rodolfosv1/core",
   "main": "lib/index.js",
