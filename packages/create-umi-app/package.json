@@ -1,5 +1,5 @@
 {
-  "name": "@rodolfosv1/create-umi-app",
+  "name": "create-umi-app",
   "version": "3.1.3",
   "description": "@rodolfosv1/create-umi-app",
   "main": "lib/index.js",
